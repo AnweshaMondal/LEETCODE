@@ -44,7 +44,7 @@ class Solution {
                 count++;
 
                 // Shift elements to the left
-                for (int j = i; j < nums.length - count+1 ; j++) {
+                for (int j = i; j <= nums.length-count; j++) {
                     nums[j - 1] = nums[j];
                 }
 
