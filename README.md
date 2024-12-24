@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AnweshaMondal/LEETCODE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
