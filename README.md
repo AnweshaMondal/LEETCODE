@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
