@@ -4,20 +4,23 @@ class Solution {
         int r = s.length()-1;
 
         while(l<=r){
-            while(l<r &&!isAlphaNumeric(s.charAt(l))){
+            if(l<r &&!isAlphaNumeric(s.charAt(l))){
              l++;
             }
 
-            while(l<r && !isAlphaNumeric(s.charAt(r))){
+            else if(l<r && !isAlphaNumeric(s.charAt(r))){ //independent if, not else if, 
+                                                     //both may be executed in the same iteration simultaneously
              r--;
             }
 
-            if (Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r))) {
+            else if (Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r))) {
                 return false;
             }
 
+            else{
             l++;
             r--;
+            }
         }
        return true;  // Return true if the loop completes
     }
