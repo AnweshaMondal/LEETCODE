@@ -18,6 +18,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnweshaMondal/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
