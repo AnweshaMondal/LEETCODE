@@ -61,4 +61,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
