@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 ## Binary Search
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 ## Divide and Conquer
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
