@@ -21,7 +21,7 @@ class Solution {
         int l = 0;
         int r = 0;
 
-        while(r<nums.length && l<nums.length){
+        while(r<nums.length ){
             
             if(nums[r] != 0){
                 int temp = nums[r];
