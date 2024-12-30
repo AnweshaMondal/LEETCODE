@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0283-move-zeroes) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
@@ -24,6 +25,7 @@
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
