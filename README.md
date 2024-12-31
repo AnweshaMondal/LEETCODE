@@ -101,4 +101,20 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AnweshaMondal/LEETCODE/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
