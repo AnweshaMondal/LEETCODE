@@ -31,23 +31,48 @@
    
 //  }
 
- class Solution {
-     public int singleNumber(int[] nums) {
-        int singlenum=0;
-for(int i=0; i<nums.length ; i++){
-    int count=1;
-    for(int j=0; j<nums.length ;j++){
-        if(i != j && nums[i]==nums[j]  ){
-            count++;
-            break;
-        }
-    }
-        if(count == 1){
-          singlenum = nums[i];
+//  class Solution {
+//      public int singleNumber(int[] nums) {
+//         int singlenum=0;
+// for(int i=0; i<nums.length ; i++){
+//     int count=1;
+//     for(int j=0; j<nums.length ;j++){
+//         if(i != j && nums[i]==nums[j]  ){
+//             count++;
+//             break;
+//         }
+//     }
+//         if(count == 1){
+//           singlenum = nums[i];
         
-        }
-    }
-   return singlenum; 
-}
+//         }
+//     }
+//    return singlenum; 
+// }
 
- }
+//  }
+
+//HashSet
+class Solution {
+     public int singleNumber(int[] nums) {
+
+        HashSet<Integer> set = new HashSet<>();        
+        for(int i = 0; i< nums.length; i++){
+            if(set.contains(nums[i])){
+                //remove the element
+                set.remove(nums[i]); 
+            }
+            else{
+                //does not contain element
+                set.add(nums[i]);
+            }
+        }
+
+        // At this point, the set contains only the single element
+        // Use an iterator or loop to get that single element
+        for (int single : set) {
+            return single;
+        }
+        return -1; //Default return
+     }
+}
