@@ -27,6 +27,7 @@
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
 | ------- |
