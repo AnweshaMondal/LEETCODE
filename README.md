@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
+| [0441-arranging-coins](https://github.com/AnweshaMondal/LEETCODE/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/AnweshaMondal/LEETCODE/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
