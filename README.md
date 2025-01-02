@@ -100,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -116,10 +117,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -128,5 +131,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
