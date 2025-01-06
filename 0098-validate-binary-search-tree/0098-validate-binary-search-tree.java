@@ -13,28 +13,53 @@
  *     }
  * }
  */
+// class Solution {
+//     public boolean isValidBST(TreeNode root) {
+//         long MAX = Long.MAX_VALUE;  //use long :)
+//         long MIN = Long.MIN_VALUE;
+
+//         return helper(root, MIN , MAX);
+//     }
+
+//     boolean helper(TreeNode root, long leftB, long rightB){
+
+//           boolean resultCurr = false;
+
+//           if(root == null){
+//             return true;
+//           }
+
+//           if(root.val>leftB && root.val<rightB){
+//              resultCurr = true;
+//           }
+              
+//          return  (helper(root.left, leftB , root.val)&&
+//                   helper(root.right, root.val , rightB)&& 
+//                   resultCurr);
+//     }
+// }
+
+
+
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        long MAX = Long.MAX_VALUE; 
+        long MAX = Long.MAX_VALUE;  //use long :)
         long MIN = Long.MIN_VALUE;
 
         return helper(root, MIN , MAX);
     }
 
     boolean helper(TreeNode root, long leftB, long rightB){
-
-          boolean resultCurr = false;
-
+          
           if(root == null){
             return true;
           }
 
-          if(root.val>leftB && root.val<rightB){
-             resultCurr = true;
+          if(root.val<=leftB || root.val>= rightB){
+              return false;
           }
-              
-         return  (helper(root.left, leftB , root.val)&&
-                  helper(root.right, root.val , rightB)&& 
-                  resultCurr);
+
+          return  helper(root.left, leftB , root.val)&&
+                  helper(root.right, root.val , rightB);
     }
 }
