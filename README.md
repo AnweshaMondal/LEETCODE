@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,4 +161,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
