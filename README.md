@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -66,6 +68,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0191-number-of-1-bits) |
@@ -123,6 +126,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
@@ -160,6 +164,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/0112-path-sum) |
