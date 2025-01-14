@@ -52,6 +52,7 @@
 | [0058-length-of-last-word](https://github.com/AnweshaMondal/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/AnweshaMondal/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnweshaMondal/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -149,6 +151,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnweshaMondal/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -176,6 +179,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnweshaMondal/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
