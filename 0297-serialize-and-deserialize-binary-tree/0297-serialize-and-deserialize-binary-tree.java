@@ -2,77 +2,86 @@
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
- *     TreeNode left = null;
- *     TreeNode right = null;
+ *     TreeNode left;
+ *     TreeNode right;
  *     TreeNode(int x) { val = x; }
  * }
  */
-import java.util.*;
-
 public class Codec {
-    // Serialize the tree into a string
+
+    // Encodes a tree to a single string
     public String serialize(TreeNode root) {
-        if (root == null) return "[]";
+        
+        if(root == null)
+        {
+            return "[]";
+        }
+        StringBuilder sb = new StringBuilder("[");
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
-        StringBuilder sb = new StringBuilder();
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-
-        while (!queue.isEmpty()) {
-            TreeNode curr = queue.poll();
-
-            if (curr == null) {
+        while(!q.isEmpty())
+        {
+            TreeNode curr = q.poll();
+            if(curr == null)
+            {
                 sb.append("null,");
-            } else {
+            }
+            else{
                 sb.append(curr.val);
                 sb.append(",");
-                queue.add(curr.left);//add null children intentionally
-                queue.add(curr.right);//\U0001f642we can add null in b/w values in a queue
+                q.add(curr.left);//even if child is null add them, ie null can be addend in Queue in b/w
+                q.add(curr.right);//nodes
             }
         }
-
-        // Remove trailing comma and return
-        sb.setLength(sb.length() - 1);
-        return "[" + sb.toString() + "]";
+        //remove the trailing ","
+        sb.setLength(sb.length() - 1);//end index is excluded //.setLength() is a void type function
+        sb.append("]");
+        return sb.toString();
     }
 
-    // Deserialize the string back into a tree-> constructing a BT from a string
+
+    // Decodes your encoded data to tree->string to tree
     public TreeNode deserialize(String data) {
-        if (data.equals("[]")) return null;
-
-        String[] nodes = data.substring(1, data.length() - 1).split(","); //data.substring(1, data.length() - 1): 
-                                                                        //Removes the enclosing square brackets ([ ]) from the serialized string to isolate the node values. For example:
-         //.split(",")                                                  //Input: "[1,2,3,null,null,4,5]"
-         //Input: "1,2,3,null,null,4,5"                              //Result: "1,2,3,null,null,4,5"
-         //Result: ["1", "2", "3", "null", "null", "4", "5"] ->Array of Strings
-
-        TreeNode root = new TreeNode(Integer.parseInt(nodes[0]));//String to Integer
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-
-        int i = 1;
-        while (!queue.isEmpty() && i < nodes.length) {
-            TreeNode curr = queue.poll();
-
-            // Process left child
-            if (!nodes[i].equals("null")) {
-                curr.left = new TreeNode(Integer.parseInt(nodes[i]));
-                queue.add(curr.left);
-            }
-            i++;
-
-            // Process right child
-            if (i < nodes.length && !nodes[i].equals("null")) {
-                curr.right = new TreeNode(Integer.parseInt(nodes[i]));
-                queue.add(curr.right);
-            }
-            i++;
+        
+        if(data.equals("[]"))//.equals() cannot compare with null String
+        {
+            return null;
         }
+        //if the string is not empty
+        Queue<TreeNode> q = new LinkedList<>();
+        data = data.substring(1, data.length()-1);   //last index excluded     
+                                                    //omit "[]"
+        String nodes[] = data.split(",");//creates an array of Strings 
 
+        TreeNode root = new TreeNode(Integer.parseInt(nodes[0]));//create the root node
+        q.add(root);//initialization
+        int i= 1;
+
+        while(!q.isEmpty() && i<data.length())
+        {
+            TreeNode curr = q.poll();
+
+            //process left child
+            if(!nodes[i].equals("null"))
+            {
+                curr.left = new TreeNode(Integer.parseInt(nodes[i]));
+                q.add(curr.left);
+            }//else keep left child null
+            i++;
+
+            //process right child
+            if(!nodes[i].equals("null"))
+            {
+                curr.right = new TreeNode(Integer.parseInt(nodes[i]));
+                q.add(curr.right);
+            }//else keep right child null
+            i++;
+
+        }
         return root;
     }
 }
-
 
 // Your Codec object will be instantiated and called as such:
 // Codec ser = new Codec();
