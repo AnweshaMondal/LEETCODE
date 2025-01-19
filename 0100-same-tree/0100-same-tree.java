@@ -23,7 +23,7 @@ class Solution {
         }
 
         //if any of the nodes is null
-        if((p!=null && q==null)||(p==null && q!=null))
+        if(( q==null)||(p==null ))
         {
             return false;
         }
