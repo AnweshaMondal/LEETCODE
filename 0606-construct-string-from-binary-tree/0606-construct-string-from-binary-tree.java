@@ -27,7 +27,6 @@ class Solution {
 
       //If it is a aleaf node none of the 3 if conditions won't execute, just the String(root.val)
       //will be returned
-
         //left node null , right node exists
     if(root.left == null && root.right != null)
         {
@@ -36,7 +35,7 @@ class Solution {
             result.append(tree2str(root.right));
             result.append(")");
         }
-
+     
     else{
 
         if(root.left != null){
@@ -52,8 +51,8 @@ class Solution {
          result.append(tree2str(root.right));
          result.append(")");
         }
-    }   
-
+    }  
+    
         return result.toString();
     }
 }
