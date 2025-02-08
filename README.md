@@ -26,6 +26,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnweshaMondal/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/AnweshaMondal/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
