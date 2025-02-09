@@ -11,11 +11,11 @@ class Solution {
         {
             while(j<nums.length && nums[j-1]<nums[j])
             {
-                inlen++;
+                // inlen++;
                 j++;
             }
 
-            if(inlen >= 1)
+            // if(inlen >= 1)
             {
                 for(int k = i ; k<j; k++ )
                     {
@@ -26,7 +26,7 @@ class Solution {
             }
 
                 //in case the adjacent 2 elements are equal or less than the previous one
-                inlen = 1;
+                // inlen = 1;
                 i = j ;
                 j = i+1;
             
