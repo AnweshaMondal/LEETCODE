@@ -34,7 +34,7 @@ class Solution {
                        }
                    }
 
-                   ballToColor.remove(ball);
+                //    ballToColor.remove(ball);
                 // if (!ballToColor.containsValue(oldColor)) { //O(n) operation,n^2 worst t complexity  
             }
              ballToColor.put(ball,color);
