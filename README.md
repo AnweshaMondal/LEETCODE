@@ -71,6 +71,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Ordered Set
 |  |
 | ------- |
