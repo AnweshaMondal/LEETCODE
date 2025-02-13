@@ -27,6 +27,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnweshaMondal/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
+| [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnweshaMondal/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -72,6 +73,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -159,6 +161,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
