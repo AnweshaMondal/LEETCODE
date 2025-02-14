@@ -23,18 +23,32 @@
 // }
 
 //String Builder
+// class Solution {
+//     public String removeOccurrences(String s, String part) {
+
+//         //String->String Builder conversion
+//         StringBuilder sb = new StringBuilder(s);
+        
+//         while(sb.indexOf(part)!= -1)
+//         {
+//             int index = sb.indexOf(part);
+//             sb.delete(index, index+part.length());
+//         }
+
+//         return sb.toString();
+//     }
+// }
+
+//By String In built Function
 class Solution {
     public String removeOccurrences(String s, String part) {
 
-        //String->String Builder conversion
-        StringBuilder sb = new StringBuilder(s);
-        
-        while(sb.indexOf(part)!= -1)
+        while(s.contains(part))//contains() is also a function of HashSet
         {
-            int index = sb.indexOf(part);
-            sb.delete(index, index+part.length());
+          int partIndex = s.indexOf(part);
+          s = s.substring(0, partIndex)+s.substring(partIndex+part.length());
         }
 
-        return sb.toString();
+        return s;
     }
 }
