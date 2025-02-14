@@ -72,6 +72,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/AnweshaMondal/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -259,6 +261,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Ordered Set
