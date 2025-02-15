@@ -23,6 +23,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnweshaMondal/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/AnweshaMondal/LEETCODE/tree/master/0441-arranging-coins) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnweshaMondal/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -153,6 +155,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AnweshaMondal/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -163,6 +166,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/AnweshaMondal/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/AnweshaMondal/LEETCODE/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
