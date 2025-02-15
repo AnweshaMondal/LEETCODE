@@ -23,6 +23,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnweshaMondal/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
@@ -70,6 +71,7 @@
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/AnweshaMondal/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
+| [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 ## Counting
 |  |
 | ------- |
