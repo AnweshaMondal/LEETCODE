@@ -11,11 +11,11 @@ class Solution {
         }
 
         // Continue processing while the smallest element is < k
-        while (!q.isEmpty() && q.peek() < k) {
-            if (q.size() < 2) {
+        while (q.size() >= 2 && q.peek() < k) {
+            // if {
                 // If there's only one element left and it's < k, we can't perform any more operations
-                break;
-            }
+                // break;
+            // }
 
             long min = q.poll(); // Get the smallest element
             long secmin = q.poll(); // Get the second smallest element
