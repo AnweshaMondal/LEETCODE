@@ -25,12 +25,12 @@ class Solution {
         }
 
         //for each node
-         int lh = height(root.left);
-         int rh = height(root.right);
+         int lh = 1+height(root.left);
+         int rh = 1+height(root.right);
 
          maxlen= Math.max(maxlen , lh+rh);
 
-         //recussive call for child nodes
+         //recursive call for child nodes
          diameterOfBinaryTree(root.left);
          diameterOfBinaryTree(root.right);
          return maxlen;
@@ -44,7 +44,7 @@ class Solution {
     static int height(TreeNode node){ //Height = no of edges
 
     if(node == null){
-        return 0; //see the definition of height , and return -1 or 0 according to it
+        return -1; //see the definition of height , and return -1 or 0 according to it
      }
 
         int rc = 1+ height(node.right);
@@ -53,4 +53,3 @@ class Solution {
         return Math.max(lc,rc);
     }
 }
-
