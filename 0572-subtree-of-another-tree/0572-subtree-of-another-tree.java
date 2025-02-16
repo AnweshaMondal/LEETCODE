@@ -21,15 +21,16 @@ class Solution {
             return false;
         }
 
-        if(isSameTree(root, subRoot))
-        {
-            return true;
-        }
+        // if(isSameTree(root, subRoot))
+        // {
+        //     return true;
+        // }
 
-        else //continue searching in children nodes also
-        {
-        return isSubtree(root.left,subRoot)|| isSubtree(root.right,subRoot);
-        }
+        // else //continue searching in children nodes also
+        // {
+        boolean result = isSameTree(root, subRoot);
+        return result||isSubtree(root.left,subRoot)|| isSubtree(root.right,subRoot);
+        // }
 
     }
 
