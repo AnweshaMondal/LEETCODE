@@ -31,9 +31,14 @@ class Solution {
          maxlen= Math.max(maxlen , lh+rh);
 
          //recussive call for child nodes
-         int subTree = Math.max(diameterOfBinaryTree(root.left),
-                                diameterOfBinaryTree(root.right));
-         return Math.max(maxlen,subTree);
+         diameterOfBinaryTree(root.left);
+         diameterOfBinaryTree(root.right);
+         return maxlen;
+
+         ////recussive call for child nodes (alsp working)
+        //  int subTree = Math.max(diameterOfBinaryTree(root.left),
+        //                         diameterOfBinaryTree(root.right));
+        //  return Math.max(maxlen,subTree);
     }
 
     static int height(TreeNode node){ //Height = no of edges
