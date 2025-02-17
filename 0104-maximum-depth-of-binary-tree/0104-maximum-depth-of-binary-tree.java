@@ -30,7 +30,8 @@
 
 // }
 
-class Solution {
+class Solution { //Authentic Way to compute height of a tree , both min , max, 
+                 //covering all the cases
     public int maxDepth(TreeNode root) {
          
         if(root== null)
