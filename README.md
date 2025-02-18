@@ -203,6 +203,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -226,6 +227,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -240,6 +242,7 @@
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -265,6 +268,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
