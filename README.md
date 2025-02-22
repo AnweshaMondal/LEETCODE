@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/AnweshaMondal/LEETCODE/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnweshaMondal/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -271,6 +274,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnweshaMondal/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
