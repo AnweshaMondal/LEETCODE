@@ -217,6 +217,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/AnweshaMondal/LEETCODE/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/AnweshaMondal/LEETCODE/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
