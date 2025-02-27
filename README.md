@@ -158,6 +158,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Design
@@ -215,6 +216,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -248,6 +250,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -302,6 +305,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -316,6 +320,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
