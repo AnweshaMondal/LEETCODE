@@ -32,6 +32,7 @@
 | [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnweshaMondal/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -86,6 +87,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -144,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -348,4 +352,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnweshaMondal/LEETCODE/tree/master/0257-binary-tree-paths) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
