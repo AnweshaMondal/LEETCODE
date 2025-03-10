@@ -21,13 +21,16 @@ class Solution {
     //DFS Function
     void dfs(ArrayList<ArrayList<Integer>>adj , int vis[], int node)
     {
-        if(vis[node] == 1) return;
+        // if(vis[node] == 1) return;
 
         vis[node] = 1;
         for(int i = 0; i<adj.get(node).size(); i++)
         {   
             int ele = adj.get(node).get(i);
+            if(vis[ele] == 0)
+            {
             dfs(adj,vis,ele);
+            }
         }
     }
     
