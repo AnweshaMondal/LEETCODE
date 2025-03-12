@@ -43,48 +43,98 @@
 //     }
 // }
 //optimized
+//DFS
+// class Solution {
+//     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        
+//         //BASE CASE
+//         // If the starting pixel already has the target color, return the image
+//         if (image[sr][sc] == color) {
+//             return image;
+//         }
+
+//         int initcolor = image[sr][sc]; // Original color of the starting pixel
+//         int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Possible directions
+
+//         // Perform DFS to flood fill the image
+//         dfsOnMatrix(image, directions, initcolor, color, sr, sc);
+
+//         return image;
+//     }
+
+//     // Function for DFS Traversal
+//     static void dfsOnMatrix(int[][] image,
+//                             int[][] dir,
+//                             int initcolor,
+//                             int newColor,
+//                             int row, int col) {
+//         int rowMax = image.length;
+//         int colMax = image[0].length;
+
+//         // Fill the current pixel with the new color
+//         image[row][col] = newColor;
+
+//         // Generate valid positions
+//         for (int[] arr : dir) {
+//             int newR = row + arr[0];
+//             int newC = col + arr[1];
+
+//             // Check if the new position is within bounds
+//             if (newR >= 0 && newR < rowMax && newC >= 0 && newC < colMax) {
+//                 // Check if the pixel has the original color and hasn't been processed
+//                 if (image[newR][newC] == initcolor) {
+//                     dfsOnMatrix(image, dir, initcolor, newColor, newR, newC);
+//                 }
+//             }
+//         }
+//     }
+// }
+
+//BFS
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        
-        //BASE CASE
         // If the starting pixel already has the target color, return the image
         if (image[sr][sc] == color) {
             return image;
         }
 
-        int initcolor = image[sr][sc]; // Original color of the starting pixel
+        int initColor = image[sr][sc]; // Original color of the starting pixel
         int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Possible directions
 
-        // Perform DFS to flood fill the image
-        dfsOnMatrix(image, directions, initcolor, color, sr, sc);
-
-        return image;
+        // Perform BFS
+        return bfs(image, sr, sc, color, initColor, directions);
     }
 
-    // Function for DFS Traversal
-    static void dfsOnMatrix(int[][] image,
-                            int[][] dir,
-                            int initcolor,
-                            int newColor,
-                            int row, int col) {
-        int rowMax = image.length;
-        int colMax = image[0].length;
+    int[][] bfs(int[][] image, int sr, int sc, int color, int initColor, int[][] dir) {
+        int m = image.length;
+        int n = image[0].length;
 
-        // Fill the current pixel with the new color
-        image[row][col] = newColor;
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{sr, sc}); // Add the starting pixel to the queue
+        image[sr][sc] = color; // Mark the starting pixel as visited
 
-        // Generate valid positions
-        for (int[] arr : dir) {
-            int newR = row + arr[0];
-            int newC = col + arr[1];
+        while (!q.isEmpty()) {
+            int[] current = q.poll();
+            int row = current[0];
+            int col = current[1];
 
-            // Check if the new position is within bounds
-            if (newR >= 0 && newR < rowMax && newC >= 0 && newC < colMax) {
-                // Check if the pixel has the original color and hasn't been processed
-                if (image[newR][newC] == initcolor) {
-                    dfsOnMatrix(image, dir, initcolor, newColor, newR, newC);
+            // Explore all four directions
+            for (int[] it : dir) {
+                int newRow = row + it[0];
+                int newCol = col + it[1];
+
+                // Check if the new position is within bounds and has the original color
+                if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n
+                        && image[newRow][newCol] == initColor) {
+                    image[newRow][newCol] = color; // Mark the pixel as visited
+                    q.add(new int[]{newRow, newCol}); // Add the pixel to the queue
                 }
             }
         }
+
+        return image;
     }
 }
