@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/AnweshaMondal/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
@@ -281,6 +282,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnweshaMondal/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
+| [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 ## Hash Function
 |  |
 | ------- |
@@ -388,6 +391,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
