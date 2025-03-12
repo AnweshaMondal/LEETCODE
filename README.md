@@ -22,6 +22,7 @@
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -287,6 +288,7 @@
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -387,4 +389,5 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
