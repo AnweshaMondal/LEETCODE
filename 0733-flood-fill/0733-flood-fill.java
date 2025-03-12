@@ -114,12 +114,14 @@ class Solution {
 
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{sr, sc}); // Add the starting pixel to the queue
-        image[sr][sc] = color; // Mark the starting pixel as visited
+        // image[sr][sc] = color; // Mark the starting pixel as visited
 
         while (!q.isEmpty()) {
             int[] current = q.poll();
             int row = current[0];
             int col = current[1];
+            
+            image[row][col] = color; // Mark the pixel as visited
 
             // Explore all four directions
             for (int[] it : dir) {
@@ -129,7 +131,6 @@ class Solution {
                 // Check if the new position is within bounds and has the original color
                 if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n
                         && image[newRow][newCol] == initColor) {
-                    image[newRow][newCol] = color; // Mark the pixel as visited
                     q.add(new int[]{newRow, newCol}); // Add the pixel to the queue
                 }
             }
