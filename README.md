@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AnweshaMondal/LEETCODE/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/AnweshaMondal/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
@@ -103,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnweshaMondal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/AnweshaMondal/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
@@ -166,6 +168,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/3447-clear-digits) |
@@ -394,4 +397,8 @@
 | [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
