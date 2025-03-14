@@ -269,6 +269,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/AnweshaMondal/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
@@ -297,6 +298,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/AnweshaMondal/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
@@ -394,11 +396,13 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnweshaMondal/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AnweshaMondal/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AnweshaMondal/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnweshaMondal/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AnweshaMondal/LEETCODE/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
