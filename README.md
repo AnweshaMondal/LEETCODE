@@ -26,6 +26,7 @@
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -272,6 +273,7 @@
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -297,6 +299,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -391,6 +394,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnweshaMondal/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AnweshaMondal/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -402,6 +406,7 @@
 | [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnweshaMondal/LEETCODE/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnweshaMondal/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnweshaMondal/LEETCODE/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |
