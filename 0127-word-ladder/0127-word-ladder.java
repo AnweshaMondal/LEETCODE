@@ -29,6 +29,10 @@ class Solution {
            for(int i = 0; i<size ; i++)
            {
            String s = q.poll();
+            if(s.equals(endWord))
+                 {
+                    return step;
+                 }
 
            // Generate all possible next words by changing one letter at a time
              for(int j =0; j<s.length(); j++)
@@ -37,18 +41,20 @@ class Solution {
                
                for(char c = 'a'; c<='z'; c++)
                {
+
                  arr[j] = c;
                  String newWord=new String(arr);
 
-                 if(newWord.equals(endWord))
-                 {
-                    return step+1;
-                 }
-                 if(set.contains(newWord))
-                 {
+                //  if(newWord.equals(endWord))
+                //  {
+                //     return step+1;
+                //  }
+                 if(set.contains(newWord))//add all valid neighbours ie who are in the list
+                 {                        //process it when poped
                     q.add(newWord);
                     set.remove(newWord);
                  }
+
                }
              }
            }
