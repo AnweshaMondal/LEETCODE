@@ -90,39 +90,92 @@
 //     }
 // }
 
-//BFS
-import java.util.LinkedList;
-import java.util.Queue;
+// //BFS
+// import java.util.LinkedList;
+// import java.util.Queue;
+
+// class Solution {
+//     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+//         // If the starting pixel already has the target color, return the image
+//         if (image[sr][sc] == color) {
+//             return image;
+//         }
+
+//         int initColor = image[sr][sc]; // Original color of the starting pixel
+//         int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Possible directions
+
+//         // Perform BFS
+//         return bfs(image, sr, sc, color, initColor, directions);
+//     }
+
+//     int[][] bfs(int[][] image, int sr, int sc, int color, int initColor, int[][] dir) {
+//         int m = image.length;
+//         int n = image[0].length;
+
+//         Queue<int[]> q = new LinkedList<>();
+//         q.add(new int[]{sr, sc}); // Add the starting pixel to the queue
+//         // image[sr][sc] = color; // Mark the starting pixel as visited
+
+//         while (!q.isEmpty()) {
+
+//             int[] current = q.poll();//parent cell of this iteration
+//             int row = current[0];
+//             int col = current[1];
+            
+// // image[row][col] = color; // wrong placement
+// //When a neighbor is added to the queue, its color is immediately updated 
+// // to color. This ensures that the same pixel is not added to the queue multiple
+// //  times.
+//             // Explore all four directions
+//             for (int[] it : dir) {
+//                 int newRow = row + it[0];
+//                 int newCol = col + it[1];
+
+//                 // Check if the new position is within bounds and has the original color
+//                 if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n
+//                         && image[newRow][newCol] == initColor) {
+//                     q.add(new int[]{newRow, newCol}); // Add the pixel to the queue
+//                     image[row][col] = color; // Mark the pixel as visited
+//                 }
+//             }
+//         }
+
+//         return image;
+//     }
+// }
 
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+
         // If the starting pixel already has the target color, return the image
-        if (image[sr][sc] == color) {
+        if (image[sr][sc] == color) 
+        {
             return image;
         }
 
         int initColor = image[sr][sc]; // Original color of the starting pixel
-        int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Possible directions
+        int[][] directions = {{-1, 0},
+                               {1, 0}, 
+                               {0, -1}, 
+                               {0, 1}}; // Possible directions
 
         // Perform BFS
         return bfs(image, sr, sc, color, initColor, directions);
     }
 
     int[][] bfs(int[][] image, int sr, int sc, int color, int initColor, int[][] dir) {
+       
         int m = image.length;
         int n = image[0].length;
 
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{sr, sc}); // Add the starting pixel to the queue
-        // image[sr][sc] = color; // Mark the starting pixel as visited
+        image[sr][sc] = color; // Mark the starting pixel as visited
 
         while (!q.isEmpty()) {
-
-            int[] current = q.poll();//parent cell of this iteration
+            int[] current = q.poll(); // Parent cell of this iteration
             int row = current[0];
             int col = current[1];
-            
-            image[row][col] = color; // Mark the pixel as visited
 
             // Explore all four directions
             for (int[] it : dir) {
@@ -133,6 +186,7 @@ class Solution {
                 if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n
                         && image[newRow][newCol] == initColor) {
                     q.add(new int[]{newRow, newCol}); // Add the pixel to the queue
+                    image[newRow][newCol] = color; // Mark the pixel as visited
                 }
             }
         }
