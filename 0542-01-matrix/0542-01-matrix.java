@@ -33,8 +33,10 @@
 //         int distance = 0;
 
 //         while (!queue.isEmpty()) {
+
 //             int size = queue.size();
-//             for (int i = 0; i < size; i++) {
+//             for (int i = 0; i < size; i++) 
+//             {
 //                 int[] curr = queue.poll();
 //                 int r = curr[0];
 //                 int c = curr[1];
@@ -48,7 +50,8 @@
 //                 for (int[] dir : dirs) {
 //                     int newRow = r + dir[0];
 //                     int newCol = c + dir[1];
-
+// //add all neighbours w/o judging their values 0/1, will judge it when poped, in neighbour loop
+// //mark them as visited and add to queue
 //                     if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && !visited[newRow][newCol]) {
 //                         queue.offer(new int[]{newRow, newCol});
 //                         visited[newRow][newCol] = true;
