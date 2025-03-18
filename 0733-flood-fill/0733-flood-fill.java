@@ -117,7 +117,8 @@ class Solution {
         // image[sr][sc] = color; // Mark the starting pixel as visited
 
         while (!q.isEmpty()) {
-            int[] current = q.poll();
+
+            int[] current = q.poll();//parent cell of this iteration
             int row = current[0];
             int col = current[1];
             
