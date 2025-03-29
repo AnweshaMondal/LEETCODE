@@ -13,12 +13,13 @@ class Solution {
             if(count > 2)//ie item occurs more than twice
             {
                i++;
-               continue;//skip the code below (of the loop), start next iteration
+            //    continue;//skip the code below (of the loop), start next iteration
             }
-            
+           else{ 
             nums[k] = nums[i];
             i++;
             k++; //if count<2 then incremnt k and i both together
+           }
           }
 
           else //ie nums[i] != nums[i-1]
