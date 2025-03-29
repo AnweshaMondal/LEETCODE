@@ -1,32 +1,22 @@
-// class Solution {
-//     public int removeElement(int[] nums, int val) {
-//         // int valcount=0;
-//         int unique_pos=0;
-//         for(int i=0; i<nums.length ;i++){
-//             if(nums[i]==val){
-//                 continue;
-//             }
-//             else{
-//                 //i.e. the current element is not val
-//                 nums[unique_pos]=nums[i];
-//                 unique_pos++;
-//             }
-//         }
-//         return unique_pos;
-//     }
-// }
-
 class Solution {
     public int removeElement(int[] nums, int val) {
+         
+        int i =0;//the pointer that will traverse the array till the end
+        int k = 0;// k will keep track of the number of the non-val elements
 
-        int count = 0;
-
-        for(int i = 0 ; i<nums.length ; i++){
-             if(nums[i] != val){
-                nums[count] = nums[i];
-                count++;
-             }
+        while(i<nums.length)
+        {
+           if(nums[i] != val)
+           {
+             nums[k++] = nums[i++];
+             //increment both the pointers i and k together  
+           }
+           else
+           {
+               i++;
+           }
         }
-        return count;
+
+    return k;
     }
 }
