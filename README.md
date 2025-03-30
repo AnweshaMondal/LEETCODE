@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnweshaMondal/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AnweshaMondal/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnweshaMondal/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/AnweshaMondal/LEETCODE/tree/master/0542-01-matrix) |
 ## Hash Function
 |  |
