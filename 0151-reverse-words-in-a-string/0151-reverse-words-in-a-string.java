@@ -46,7 +46,17 @@ class Solution {
         }
 
         //Join them to a sentence
-        // StringBuilder res = new StringBuilder();
-        return String.join(" ", words);
+        StringBuilder res = new StringBuilder();
+        for(int i = 0; i<words.size(); i++)
+        {
+            res.append(words.get(i));
+            if(i!= words.size()-1)
+            {
+                res.append(" ");
+            }
+        }
+        return res.toString();
+
+        // return String.join(" ", words);
     }
 }
