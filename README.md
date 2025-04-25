@@ -81,6 +81,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AnweshaMondal/LEETCODE/tree/master/0441-arranging-coins) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnweshaMondal/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
@@ -95,6 +96,7 @@
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AnweshaMondal/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
 | [0965-unique-email-addresses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -386,6 +388,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
