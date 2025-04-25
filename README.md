@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
@@ -88,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AnweshaMondal/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AnweshaMondal/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -113,6 +115,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/AnweshaMondal/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/AnweshaMondal/LEETCODE/tree/master/0127-word-ladder) |
