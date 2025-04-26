@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AnweshaMondal/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AnweshaMondal/LEETCODE/tree/master/0058-length-of-last-word) |
