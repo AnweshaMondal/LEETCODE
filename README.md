@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/AnweshaMondal/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
@@ -193,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/AnweshaMondal/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
