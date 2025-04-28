@@ -196,6 +196,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/AnweshaMondal/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
@@ -206,6 +207,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnweshaMondal/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
