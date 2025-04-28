@@ -102,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AnweshaMondal/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
@@ -198,6 +199,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AnweshaMondal/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -452,6 +454,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnweshaMondal/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Topological Sort
 |  |
@@ -461,4 +464,5 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
