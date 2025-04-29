@@ -9,7 +9,7 @@ class Solution {
 
         for(int i = 0; num!=0  ; i++)
         {
-           while(num >= index[i] )
+           while(num >= index[i] && i< len)
            {
              num -= index[i];
               res+=symbol[i];
