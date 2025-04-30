@@ -6,11 +6,12 @@ class MyStack {
         //Declare a queue
          q = new LinkedList<Integer>();
     }
-    
+    //push = O(1)
     public void push(int x) {
         q.add(x);
     }
     
+    //pop in O(N) time
     public int pop() {
         int size = q.size();
          int pop = -999;
@@ -23,7 +24,7 @@ class MyStack {
             return q.poll();
         }
     
-    
+    //O(N) TC
     public int top() {
         int size = q.size();
         int pop = -999;
