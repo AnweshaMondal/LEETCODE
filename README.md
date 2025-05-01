@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AnweshaMondal/LEETCODE/tree/master/1127-last-stone-weight) |
 | [2434-design-a-number-container-system](https://github.com/AnweshaMondal/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -212,6 +213,7 @@
 | [0155-min-stack](https://github.com/AnweshaMondal/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AnweshaMondal/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AnweshaMondal/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -263,6 +265,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
@@ -372,6 +375,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AnweshaMondal/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
@@ -389,6 +393,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0933-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
@@ -417,6 +422,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnweshaMondal/LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
