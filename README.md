@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -477,5 +479,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
