@@ -176,6 +176,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnweshaMondal/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -471,4 +472,8 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/AnweshaMondal/LEETCODE/tree/master/0402-remove-k-digits) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
