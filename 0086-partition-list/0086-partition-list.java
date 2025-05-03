@@ -84,8 +84,8 @@ class Solution {
             }
         }
     greaterHead = greaterHead.next;
-    ptr1.next = greaterHead;
     ptr2.next = null;
+    ptr1.next = greaterHead;
 
     return lessHead.next;//Skip the dummy node
 
