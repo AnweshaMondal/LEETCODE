@@ -17,17 +17,19 @@ class Solution {
         
         if(head == null || head.next == null) return head;
 
+        ListNode prev = null;
         ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode fast = head;
 
-        while(fast != null && fast.next != null)
-        {
-            slow = slow.next;
-            fast = fast.next.next;
+        while(fast != null && fast.next != null) {
+          prev = slow;
+          slow = slow.next;
+          fast = fast.next.next;
         }
+        prev.next = null;  // Proper split
+
         
-        ListNode newHead = slow.next;
-        slow.next = null;//break the fast part's link
+        ListNode newHead = slow;//break the fast part's link
 
         return merge(sortList(head),sortList(newHead));
     }
