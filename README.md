@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnweshaMondal/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnweshaMondal/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -416,6 +417,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AnweshaMondal/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnweshaMondal/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
