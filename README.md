@@ -121,6 +121,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnweshaMondal/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -433,6 +434,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AnweshaMondal/LEETCODE/tree/master/0415-add-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AnweshaMondal/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AnweshaMondal/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -501,6 +503,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AnweshaMondal/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Merge Sort
 |  |
 | ------- |
