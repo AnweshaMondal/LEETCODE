@@ -75,6 +75,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnweshaMondal/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0206-reverse-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnweshaMondal/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
