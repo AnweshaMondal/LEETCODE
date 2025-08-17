@@ -38,6 +38,7 @@
 | [1364-tuple-with-same-product](https://github.com/AnweshaMondal/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1524-string-matching-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnweshaMondal/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AnweshaMondal/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
@@ -250,6 +251,7 @@
 | [0878-shifting-letters](https://github.com/AnweshaMondal/LEETCODE/tree/master/0878-shifting-letters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AnweshaMondal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnweshaMondal/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/2465-shifting-letters-ii) |
