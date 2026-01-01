@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/AnweshaMondal/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AnweshaMondal/LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AnweshaMondal/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/AnweshaMondal/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnweshaMondal/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnweshaMondal/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnweshaMondal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AnweshaMondal/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/AnweshaMondal/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnweshaMondal/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnweshaMondal/LEETCODE/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AnweshaMondal/LEETCODE/tree/master/0263-ugly-number) |
